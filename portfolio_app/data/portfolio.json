@@ -1,0 +1,207 @@
+{
+  "brand": "TSITO ARIZO",
+  "nav": {
+    "en": [
+      { "label": "Home", "href": "#home" },
+      { "label": "About", "href": "#about" },
+      { "label": "Skills", "href": "#skills" },
+      { "label": "Projects", "href": "#projects" },
+      { "label": "Experience", "href": "#experience" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "fr": [
+      { "label": "Accueil", "href": "#home" },
+      { "label": "À propos", "href": "#about" },
+      { "label": "Compétences", "href": "#skills" },
+      { "label": "Projets", "href": "#projects" },
+      { "label": "Expérience", "href": "#experience" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "hero": {
+    "en": {
+      "badge": "AVAILABLE FOR FREELANCE & FULL-TIME",
+      "name": "Tsito Arizo",
+      "role": "Data Analyst & Scientist",
+      "copy": "I design and build modern, scalable and high-performance web applications with a strong focus on user experience, clean architecture and maintainable code.",
+      "ctaPrimary": "Explore My Work",
+      "ctaSecondary": "Download Resume"
+    },
+    "fr": {
+      "badge": "DISPONIBLE EN FREELANCE & TEMPS PLEIN",
+      "name": "Tsito Arizo",
+      "role": "Data Analyst & Scientist",
+      "copy": "Je conçois et développe des applications web modernes, évolutives et performantes, avec une attention particulière portée à l'expérience utilisateur, à l'architecture propre et à la maintenabilité du code.",
+      "ctaPrimary": "Voir mes projets",
+      "ctaSecondary": "Télécharger le CV"
+    }
+  },
+  "techStack": ["HTML", "CSS", "JS", "TS", "React", "Laravel", "PHP", "Python", "MySQL", "Docker"],
+  "about": {
+    "en": {
+      "title": "Crafting Digital Excellence",
+      "text": "With over half a decade in the industry, I have dedicated my career to mastering the delicate balance between aesthetic beauty and technical robustness. I treat every line of code as a building block for something exceptional.",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+      "stats": [
+        { "value": "06+", "label": "Years of Exp" },
+        { "value": "40+", "label": "Projects Done" },
+        { "value": "15+", "label": "Tech Mastered" }
+      ]
+    },
+    "fr": {
+      "title": "L'excellence numérique au quotidien",
+      "text": "Fort de plus de six années d'expérience, j'ai consacré ma carrière à maîtriser l'équilibre subtil entre esthétique et robustesse technique. Chaque ligne de code est pour moi une brique d'un ensemble exceptionnel.",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+      "stats": [
+        { "value": "06+", "label": "Années d'exp." },
+        { "value": "40+", "label": "Projets réalisés" },
+        { "value": "15+", "label": "Technos maîtrisées" }
+      ]
+    }
+  },
+  "specializations": {
+    "en": [
+      { "title": "Frontend", "icon": "code", "items": ["React / Next.js", "TypeScript", "Tailwind CSS", "Three.js / WebGL"] },
+      { "title": "Backend", "icon": "server", "items": ["Python / Flask", "PHP / Laravel", "Node.js", "REST & GraphQL"] },
+      { "title": "Database", "icon": "database", "items": ["MySQL / MariaDB", "PostgreSQL", "Redis", "MongoDB"] },
+      { "title": "DevOps", "icon": "cloud", "items": ["Docker / Compose", "CI/CD (Actions)", "AWS / Vercel", "Nginx Configuration"] },    
+      { "title": "Tools", "icon": "tool", "items": ["Figma", "Git / GitHub", "Postman", "Jira / Agile"] }
+    ],
+    "fr": [
+      { "title": "Frontend", "icon": "code", "items": ["React / Next.js", "TypeScript", "Tailwind CSS", "Three.js / WebGL"] },
+      { "title": "Backend", "icon": "server", "items": ["Python / Flask", "PHP / Laravel", "Node.js", "REST & GraphQL"] },
+      { "title": "Base de données", "icon": "database", "items": ["MySQL / MariaDB", "PostgreSQL", "Redis", "MongoDB"] },
+      { "title": "DevOps", "icon": "cloud", "items": ["Docker / Compose", "CI/CD (Actions)", "AWS / Vercel", "Configuration Nginx"] },
+      { "title": "Outils", "icon": "tool", "items": ["Figma", "Git / GitHub", "Postman", "Jira / Agile"] }
+    ]
+  },
+  "projects": {
+    "en": [
+      {
+        "label": "LARAVEL REACT",
+        "category": "fullstack",
+        "title": "FinPulse Analytics",
+        "description": "Real-time financial dashboard with predictive market insights and deep-layer data security.",
+        "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80"
+      },
+      {
+        "label": "NEXT.JS POSTGRESQL",
+        "category": "frontend",
+        "title": "Aether Marketplace",
+        "description": "A decentralized platform for digital creators, built for lightning-fast transactions and zero latency.",
+        "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?auto=format&fit=crop&w=1200&q=80"
+      },
+      {
+        "label": "PYTHON FLASK",
+        "category": "backend",
+        "title": "Nimbus API Gateway",
+        "description": "A high-throughput microservice gateway handling authentication, rate limiting and observability.",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&q=80"
+      }
+    ],
+    "fr": [
+      {
+        "label": "LARAVEL REACT",
+        "category": "fullstack",
+        "title": "FinPulse Analytics",
+        "description": "Tableau de bord financier en temps réel avec analyses prédictives de marché et sécurité des données renforcée.",
+        "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80"
+      },
+      {
+        "label": "NEXT.JS POSTGRESQL",
+        "category": "frontend",
+        "title": "Aether Marketplace",
+        "description": "Plateforme décentralisée pour créateurs de contenu, conçue pour des transactions ultra-rapides et sans latence.",
+        "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?auto=format&fit=crop&w=1200&q=80"
+      },
+      {
+        "label": "PYTHON FLASK",
+        "category": "backend",
+        "title": "Nimbus API Gateway",
+        "description": "Passerelle de microservices à haut débit gérant l'authentification, la limitation de débit et l'observabilité.",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&q=80"
+      }
+    ]
+  },
+  "timeline": {
+    "en": [
+      {
+        "period": "2022 - Present",
+        "role": "Senior Full Stack Architect",
+        "company": "Nova Systems | Remote",
+        "summary": "Leading the transformation of legacy enterprise systems into modern microservices-based architectures using Laravel, React and Python.",
+        "tags": ["#Python", "#Laravel", "#React", "#SaaS"]
+      },
+      {
+        "period": "2019 - 2022",
+        "role": "Full Stack Developer",
+        "company": "Creative Logic Hub | Antananarivo",
+        "summary": "Developed high-traffic web platforms and custom CMS solutions for international clients in the fintech sector.",
+        "tags": ["#Laravel", "#Vue.js", "#MySQL"]
+      },
+      {
+        "period": "2017 - 2019",
+        "role": "Junior Web Developer",
+        "company": "Pixel Lab | Antananarivo",
+        "summary": "Started my professional journey focusing on pixel-perfect frontend implementations and simple PHP backends.",
+        "tags": ["#PHP", "#jQuery", "#CSS3"]
+      }
+    ],
+    "fr": [
+      {
+        "period": "2022 - Présent",
+        "role": "Architecte Full Stack Senior",
+        "company": "Nova Systems | Télétravail",
+        "summary": "Pilotage de la transformation de systèmes d'entreprise existants vers des architectures microservices modernes avec Laravel, React et Python.",
+        "tags": ["#Python", "#Laravel", "#React", "#SaaS"]
+      },
+      {
+        "period": "2019 - 2022",
+        "role": "Développeur Full Stack",
+        "company": "Creative Logic Hub | Antananarivo",
+        "summary": "Développement de plateformes web à fort trafic et de solutions CMS sur mesure pour des clients internationaux du secteur fintech.",
+        "tags": ["#Laravel", "#Vue.js", "#MySQL"]
+      },
+      {
+        "period": "2017 - 2019",
+        "role": "Développeur Web Junior",
+        "company": "Pixel Lab | Antananarivo",
+        "summary": "Débuts professionnels axés sur des intégrations frontend soignées et des backends PHP simples.",
+        "tags": ["#PHP", "#jQuery", "#CSS3"]
+      }
+    ]
+  },
+  "contact": {
+    "en": {
+      "eyebrow": "Let's work together",
+      "title": "Start your next digital project.",
+      "formTitle": "Send me a message",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "Your email",
+      "messagePlaceholder": "Tell me about your project...",
+      "submit": "Send message",
+      "sending": "Sending...",
+      "success": "Thanks! Your message has been received, I'll reply soon.",
+      "error": "Something went wrong. Please try again."
+    },
+    "fr": {
+      "eyebrow": "Travaillons ensemble",
+      "title": "Lancez votre prochain projet digital.",
+      "formTitle": "Envoyez-moi un message",
+      "namePlaceholder": "Votre nom",
+      "emailPlaceholder": "Votre email",
+      "messagePlaceholder": "Parlez-moi de votre projet...",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Merci ! Votre message a bien été reçu, je vous répondrai rapidement.",
+      "error": "Une erreur est survenue. Veuillez réessayer."
+    },
+    "email": "Andriatsitohainamiharizo@gmail.com",
+    "phone": "+261 34 30 329 43",
+    "location": "Ambohidratrimo,Antananarivo, Madagascar"
+  },
+  "footer": {
+    "en": "All rights reserved.",
+    "fr": "Tous droits réservés."
+  }
+}
