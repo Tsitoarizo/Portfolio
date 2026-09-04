@@ -1,5 +1,5 @@
 {
-  "brand": "TSITO ARIZO",
+  "brand": "Tsito Arizo",
   "nav": {
     "en": [
       { "label": "Home", "href": "#home" },
@@ -23,7 +23,7 @@
       "badge": "AVAILABLE FOR FREELANCE & FULL-TIME",
       "name": "Tsito Arizo",
       "role": "Data Analyst & Scientist",
-      "copy": "I design and build modern, scalable and high-performance web applications with a strong focus on user experience, clean architecture and maintainable code.",
+      "copy": "Passionate about data, I am developing my skills in Data Analysis and Data Science to transform data into valuable insights and intelligent solutions.",
       "ctaPrimary": "Explore My Work",
       "ctaSecondary": "Download Resume"
     },
@@ -31,44 +31,42 @@
       "badge": "DISPONIBLE EN FREELANCE & TEMPS PLEIN",
       "name": "Tsito Arizo",
       "role": "Data Analyst & Scientist",
-      "copy": "Je conçois et développe des applications web modernes, évolutives et performantes, avec une attention particulière portée à l'expérience utilisateur, à l'architecture propre et à la maintenabilité du code.",
+      "copy": "Passionné par la Data, je développe mes compétences en Data Analysis et Data Science afin de transformer les données en informations utiles et en solutions intelligentes.",
       "ctaPrimary": "Voir mes projets",
       "ctaSecondary": "Télécharger le CV"
     }
   },
-  "techStack": ["HTML", "CSS", "JS", "TS", "React", "Laravel", "PHP", "Python", "MySQL", "Docker"],
+  "techStack": ["Power Bi", "Excel", "ML", "SQL", "Python", "MySQL", "Docker"],
   "about": {
     "en": {
       "title": "Crafting Digital Excellence",
-      "text": "With over half a decade in the industry, I have dedicated my career to mastering the delicate balance between aesthetic beauty and technical robustness. I treat every line of code as a building block for something exceptional.",
+      "text": "With over half a decade in the industry, I have dedicated my career to mastering the delicate balance between aesthetic beauty and technical robustness. ",
       "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
       "stats": [
-        { "value": "06+", "label": "Years of Exp" },
-        { "value": "40+", "label": "Projects Done" },
-        { "value": "15+", "label": "Tech Mastered" }
+        { "value": "02+", "label": "Years of Exp" },
+        { "value": "03+", "label": "Projects Done" },
+        { "value": "07+", "label": "Tech Mastered" }
       ]
     },
     "fr": {
       "title": "L'excellence numérique au quotidien",
-      "text": "Fort de plus de six années d'expérience, j'ai consacré ma carrière à maîtriser l'équilibre subtil entre esthétique et robustesse technique. Chaque ligne de code est pour moi une brique d'un ensemble exceptionnel.",
+      "text": "Fort de plus de deux années d'expérience, j'ai consacré ma carrière à maîtriser l'équilibre subtil entre esthétique et robustesse technique.",
       "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
       "stats": [
-        { "value": "06+", "label": "Années d'exp." },
-        { "value": "40+", "label": "Projets réalisés" },
-        { "value": "15+", "label": "Technos maîtrisées" }
+        { "value": "02", "label": "Années d'exp." },
+        { "value": "03+", "label": "Projets réalisés" },
+        { "value": "07+", "label": "Technos maîtrisées" }
       ]
     }
   },
   "specializations": {
     "en": [
-      { "title": "Frontend", "icon": "code", "items": ["React / Next.js", "TypeScript", "Tailwind CSS", "Three.js / WebGL"] },
       { "title": "Backend", "icon": "server", "items": ["Python / Flask", "PHP / Laravel", "Node.js", "REST & GraphQL"] },
       { "title": "Database", "icon": "database", "items": ["MySQL / MariaDB", "PostgreSQL", "Redis", "MongoDB"] },
       { "title": "DevOps", "icon": "cloud", "items": ["Docker / Compose", "CI/CD (Actions)", "AWS / Vercel", "Nginx Configuration"] },    
       { "title": "Tools", "icon": "tool", "items": ["Figma", "Git / GitHub", "Postman", "Jira / Agile"] }
     ],
     "fr": [
-      { "title": "Frontend", "icon": "code", "items": ["React / Next.js", "TypeScript", "Tailwind CSS", "Three.js / WebGL"] },
       { "title": "Backend", "icon": "server", "items": ["Python / Flask", "PHP / Laravel", "Node.js", "REST & GraphQL"] },
       { "title": "Base de données", "icon": "database", "items": ["MySQL / MariaDB", "PostgreSQL", "Redis", "MongoDB"] },
       { "title": "DevOps", "icon": "cloud", "items": ["Docker / Compose", "CI/CD (Actions)", "AWS / Vercel", "Configuration Nginx"] },

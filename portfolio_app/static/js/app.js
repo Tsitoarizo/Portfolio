@@ -126,7 +126,7 @@ function render() {
       <!-- SKILLS -->
       <section id="skills" class="mx-auto w-full max-w-[1600px] px-6 py-20 text-center lg:px-10">
         <h3 class="text-4xl font-extrabold tracking-tighter sm:text-5xl">${state.lang === 'fr' ? 'Compétences clés' : 'Core Specializations'}</h3>
-        <p class="mx-auto mt-3 max-w-xl text-slate-300">${state.lang === 'fr' ? 'Une stack pensée pour construire le web de demain.' : 'A curated stack for building the future of the web.'}</p>
+        <p class="mx-auto mt-3 max-w-xl text-slate-300">${state.lang === 'fr' ? 'Une expertise guidée par les données pour analyser, comprendre et construire les solutions intelligentes de demain.' : 'Data-driven expertise to analyze, understand, and build the intelligent solutions of tomorrow.'}</p>
 
         <div class="mt-12 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-5">
           ${specs
